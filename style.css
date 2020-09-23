@@ -4,6 +4,7 @@ h1 {
     text-transform: uppercase;
     font-size: 40px;
     background-color: white;
+    
 
 }
 
@@ -16,7 +17,7 @@ h2 {
 body {
     background-color: hsl(41, 70%, 94%);
     color: hsl(41, 70%, 20%);
-
+    
 }
 
 p {
@@ -31,4 +32,6 @@ strong {
 em {
     color: rgb(31, 70, 122);
     font-style: italic;
+    font-family: 'Courgette', cursive;
+    font-size: 18px;
 }
