@@ -1,6 +1,6 @@
 h1 {
   color: hsl(41, 70%, 20%)
-  text-align
+  text-align: center;
 }
 h2 {
     text-align: center;
@@ -11,6 +11,11 @@ body {
 }
 p {
     font-size: 16px;
-    text-align: center;
-    
+    text-align: center; 
+}
+strong {
+    color: orangered
+}
+em {
+    color: purple;
 }
