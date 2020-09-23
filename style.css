@@ -11,13 +11,13 @@ h1 {
 h2 {
     text-align: center;
     font-size: 24px;
-
+    line-height: 12px
 }
 
 body {
     background-color: hsl(41, 70%, 94%);
     color: hsl(41, 70%, 20%);
-    
+    font-family: 'Libre Baskerville', serif; 
 }
 
 p {
@@ -27,11 +27,12 @@ p {
 
 strong {
     font-weight: bold;
+    text-decoration: underline
 }
 
 em {
     color: rgb(31, 70, 122);
     font-style: italic;
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', 'Libre Baskerville', cursive;
     font-size: 18px;
 }
