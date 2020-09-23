@@ -1,6 +1,16 @@
 h1 {
-  color: greenyellow;
+  color: hsl(41, 70%, 20%)
+  text-align
+}
+h2 {
+    text-align: center;
 }
 body {
-    background-color: hsl()
+    background-color: hsl(41, 70%, 94%);
+    color: hsl(41, 70%, 20%)
+}
+p {
+    font-size: 16px;
+    text-align: center;
+    
 }
