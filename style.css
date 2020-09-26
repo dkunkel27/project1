@@ -1,15 +1,15 @@
 h1 {
+  background-color: white;
   color: rgb(31, 70, 122);
+  font-size: 40px;
   text-align: center;
   text-transform: uppercase;
-  font-size: 40px;
-  background-color: white;
 }
 
 h2 {
-  text-align: center;
   font-size: 22px;
-  line-height: 50px; 
+  line-height: 50px;
+  text-align: center;
 }
 
 body {
@@ -24,13 +24,13 @@ p {
 }
 
 strong {
-  font-weight: bold;
   text-decoration: underline;
+  font-weight: bold;
 }
 
 em {
   color: rgb(31, 70, 122);
-  font-style: italic;
   font-family: "Courgette", "Libre Baskerville", cursive;
   font-size: 18px;
+  font-style: italic;
 }
