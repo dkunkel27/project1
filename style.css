@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   background-color: hsl(41, 70%, 94%);
   color: hsl(41, 70%, 20%);
